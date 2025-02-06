@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jerguar
 - 👀 I’m interested in learning to code through self-taught means!
-- 🌱 I’m currently working through freecodecamp
+- 🌱 I’m currently learning basic SQL
 - 💞️ I’m looking to collaborate on projects in the future, maybe
 - 📫 How to reach me ... send me a message here
 
